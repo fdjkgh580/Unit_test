@@ -1,0 +1,13 @@
+{
+    "name": "jsnlib/unit_test",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0",
+        "jsnlib/jsnlib": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jsnlib\\": "Codeigniter"
+        }
+    }
+}
