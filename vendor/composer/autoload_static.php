@@ -16,7 +16,7 @@ class ComposerStaticInit09410901d9e657c8ed0e393ab26367ec
     public static $prefixDirsPsr4 = array (
         'Jsnlib\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/Codeigniter',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

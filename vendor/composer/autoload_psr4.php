@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Jsnlib\\' => array($baseDir . '/Codeigniter'),
+    'Jsnlib\\' => array($baseDir . '/src'),
 );
