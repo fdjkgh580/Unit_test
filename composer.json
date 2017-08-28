@@ -1,5 +1,5 @@
 {
-    "name": "jsnlib/unit_test",
+    "name": "jsnlib/codeigniter_unit_test_report",
     "type": "library",
     "require": {
         "php": ">=7.1.0",
