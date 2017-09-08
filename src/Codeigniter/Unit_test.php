@@ -21,6 +21,7 @@ class Unit_test
                     min-width: 768px;
                     margin: 0 auto;
                     margin-bottom: 1em;
+                    table-layout: fixed;
                 }
                 table.unit-test tbody .item,
                 table.unit-test tbody .result {
@@ -40,6 +41,7 @@ class Unit_test
                     text-align: left;
                     font-weight: 400;
                     color: #4e4e4e;
+                    word-break: break-word;
                 }
                 table.unit-test tbody tr.tr-passed .result {
                     background: rgba(54, 216, 111, 0.51);
